@@ -1,4 +1,4 @@
-FROM mcr.microsoft.cm/dotnet/core/sdk:2.2
+FROM mcr.microsoft.com/dotnet/core/sdk:2.2
 
 # set up node
 ENV NODE_VERSION 12.9.1
